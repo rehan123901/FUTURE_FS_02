@@ -1,3 +1,17 @@
+This is the code for MINI E-Commerce Website
+The features in this are :
+Product listing with filtering/search
+✔ Shopping cart with quantity control
+✔ Checkout simulation with form validation
+✔ Optional user login and order history
+Tools Used Are:
+Frontend: React.js / Next.js + Tailwind CSS 
+ 🔹 State Management: Zustand.
+
+ 🔹 Backend: Node.js
+
+ 🔹 Database: MongoDB / Firebase
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
